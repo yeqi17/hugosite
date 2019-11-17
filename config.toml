@@ -2,12 +2,8 @@ baseURL = "https://yeqi17.github.io"
 languageCode = "en-us"
 theme = "vienna"
 title = "VIM - THE EDITOR FOR GOD"
-copyright = '&copy; Theme from <a href="https://themes.gohugo.io/vienna/">vienna</a> Updated by bugnofree'
+copyright = '&copy; Theme from <a href="https://themes.gohugo.io/vienna/">vienna</a> '
 
 [params]
     subtitle = "subtile"
-    contact = "mailto:qi.ye.siat@gmail.com"
-    author = "thuxyz"
-    avatar = "/images/boy.jpg"
-    bio = "your bio"
 
