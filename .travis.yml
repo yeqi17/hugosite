@@ -20,6 +20,11 @@ install:
     - ls
     - pwd
 
+before_script:
+ - git config --global user.name "yeqi"
+ - git config --global user.email "qi.ye.siat@gmail.com"
+ - sed -i'' "s~git@https://github.com/yeqi17/yeqi17.github.io.git~https://${GH_TOKEN}@https://github.com/yeqi17/yeqi17.github.io.git~" _config.yml
+ - git clone -b master https://github.com/yeqi17/yeqi17.github.io.git .deploy_git
 script:
 # 运行hugo命令
   - hugo
@@ -34,3 +39,4 @@ deploy:
   keep-history: true # 是否保持target-branch分支的提交记录
   on:
     branch: master # 博客源码的分支
+  repo: yeqi17.github.io

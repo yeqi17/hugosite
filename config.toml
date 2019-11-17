@@ -1,9 +1,8 @@
 baseURL = "https://yeqi17.github.io/"
 languageCode = "en-us"
 theme = "vienna"
-title = "VIM - THE EDITOR FOR GOD"
+title = "Practice Makes Perfect"
 copyright = '&copy; Theme from <a href="https://themes.gohugo.io/vienna/">vienna</a> '
 
 [params]
-    subtitle = "subtile"
-
+    subtitle = "Just do it" 
