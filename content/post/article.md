@@ -8,4 +8,4 @@ tags: ["hugo", "pages"]
 categories: ["pages"]
 author: ""
 ---
-    第一篇blog
+    第一篇 blog
