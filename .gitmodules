@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:yeqi17/yeqi17.github.io.git
