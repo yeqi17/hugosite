@@ -1,3 +1,14 @@
+---
+title: "使用 Hugo 搭建 Blog"
+date: 2019-11-18T11:18:15+08:00
+draft:true
+weight: 70
+keywords: ["hugo"]
+description: "Hugo 安装与配置"
+tags: ["hugo", "pages"]
+categories: ["pages"]
+author: "yeqi"
+---
 ## 1.安装HOGO
 
 环境:mac
