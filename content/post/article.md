@@ -1,6 +1,6 @@
 ---
-title: "My First Post"
-date: 2017-12-14T11:18:15+08:00
+title: "DEMO"
+date: 2019-11-18T11:18:15+08:00
 weight: 70
 keywords: ["hugo"]
 description: "第一篇文章"

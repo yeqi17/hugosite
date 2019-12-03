@@ -1,7 +1,7 @@
 ---
 title: "使用 Hugo 搭建 Blog"
 date: 2019-11-18T11:18:15+08:00
-draft:true
+draft: false
 weight: 70
 keywords: ["hugo"]
 description: "Hugo 安装与配置"
